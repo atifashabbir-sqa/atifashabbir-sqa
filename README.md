@@ -12,4 +12,4 @@
 
 📚 Always learning — currently exploring Cypress and AI-assisted QA tools.
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/atifa-shabbir/)) | [Email](atifashabbir.sqa@gmail.com)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/atifa-shabbir/) | [Email](atifashabbir.sqa@gmail.com)
