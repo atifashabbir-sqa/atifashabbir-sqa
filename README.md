@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Atifa
 
-<!--
-**atifashabbir-sqa/atifashabbir-sqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Software QA Engineer** with expertise in:
 
-Here are some ideas to get you started:
+- 🔹 Automation: Selenium, Appium
+- 🔹 API Testing: Postman, REST Assured
+- 🔹 Test Management: Jira, TestRail
+- 🔹 CI/CD: GitHub Actions, Jenkins
+- 🔹 Bug Tracking & Agile practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently working on **end-to-end automation frameworks** and performance testing.
+
+📚 Always learning — currently exploring Cypress and AI-assisted QA tools.
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/atifa-shabbir/)) | [Email](atifashabbir.sqa@gmail.com)
